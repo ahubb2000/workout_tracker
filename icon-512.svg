@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Workout Tracker icon">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#34d399"/>
+      <stop offset="100%" stop-color="#16a34a"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="110" fill="#0f172a"/>
+  <rect x="55" y="55" width="402" height="402" rx="90" fill="url(#g)"/>
+  <path d="M145 270h52V155h50v115h49V210h50v60h50v58H145z" fill="#ecfdf5" opacity="0.92"/>
+  <circle cx="256" cy="152" r="28" fill="#ecfdf5"/>
+</svg>
